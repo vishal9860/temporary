@@ -13,6 +13,7 @@ public class ArrayLists {
         ar.add(5);
         ar.add(25);
         ar.add(2);
+        ar.removeFirst();
         System.out.println(ar);
 
 

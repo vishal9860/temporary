@@ -19,6 +19,7 @@ public class Hashsets {
         hl.add(30);
         hl.add(40);
         hl.add(50);
+        hl.add(50);
         System.out.println(hl);
 
     }

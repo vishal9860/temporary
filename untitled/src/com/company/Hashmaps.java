@@ -1,9 +1,7 @@
 package com.company;
-
 import java.util.HashMap;
 import java.lang.Integer;
 import java.util.IdentityHashMap;
-
 public class Hashmaps {
     public static void main(String[] args) {
         HashMap HM = new HashMap();
